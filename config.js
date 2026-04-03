@@ -1,0 +1,23 @@
+export const nameBand = 'STAR VS. THE FORCES OF EVIL';
+export const nameSongs = [
+	"AMIGOS Y NO MAS - BASTIÁN AND FELIPE", /*1*/
+	"END CREDITS", /*2*/
+	"SEASON 3 ENDING", /*3*/
+	"INTRO", /*4*/
+	"TOO LITTLE TOO LATE", /*5*/
+	"AWESOME FEELING", /*6*/
+	"AMIGOS Y NO MÁS", /*7*/
+	"YA ES TARDE LO SÉ", /*8*/
+	"STAR'S PRINCESS SONG", /*9*/
+	"BLOOD MOON WALTZ", /*10*/
+	"LUDO VS. RATS", /*11*/
+	"CLOUDY IS OUT OF CONTROL", /*12*/
+	"MINA LOVEBERRY", /*13*/
+	"WAITING FOR ME", /*14*/
+	"TREE OF HOPE", /*15*/
+	"STAR'S BEAUTIFUL MIND", /*16*/
+	"SAVE THE BOUNCE LOUNGE", /*17*/
+	"JEREMY IS AWESOME", /*18*/
+	"WAND FIGHT", /*19*/
+	"JOKE IS ON ME", /*20*/
+]
